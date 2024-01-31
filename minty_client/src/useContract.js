@@ -1,5 +1,5 @@
 import { ethers } from 'ethers';
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useCallback } from 'react'; // Add useCallback here
 import MyNFTContractABI from './abis/MyNFTAbi.json'; // The ABI for your contract
 
 const contractAddress = '0x5FbDB2315678afecb367f032d93F642f64180aa3';
