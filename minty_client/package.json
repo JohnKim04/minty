@@ -3,10 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@aws-amplify/ui-react": "^6.1.2",
     "@pinata/sdk": "^2.1.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "aws-amplify": "^6.0.13",
     "buffer": "^6.0.3",
     "ethers": "^5.6.9",
     "ipfs-http-client": "^60.0.1",

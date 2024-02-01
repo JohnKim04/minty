@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-minty-dev-150143-authRole",
+      "UnauthRoleArn": "arn:aws:iam::730335440918:role/amplify-minty-dev-150143-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::730335440918:role/amplify-minty-dev-150143-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-minty-dev-150143-deployment",
+      "UnauthRoleName": "amplify-minty-dev-150143-unauthRole",
+      "StackName": "amplify-minty-dev-150143",
+      "StackId": "arn:aws:cloudformation:us-west-2:730335440918:stack/amplify-minty-dev-150143/b4af5d10-c08c-11ee-b58a-0a1d81379649",
+      "AmplifyAppId": "d1rvk46e6bkont"
+    },
+    "categories": {
+      "auth": {
+        "minty6681c641": {}
+      }
+    }
+  }
+}
