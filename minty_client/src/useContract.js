@@ -2,7 +2,7 @@ import { ethers } from 'ethers';
 import { useEffect, useState, useCallback } from 'react'; // Add useCallback here
 import MyNFTContractABI from './abis/MyNFTAbi.json'; // The ABI for your contract
 
-const contractAddress = '0x5FbDB2315678afecb367f032d93F642f64180aa3';
+const contractAddress = '0x61181b9cB63Aa1ddB70c71d9c10CC4241Aff10D1';
 
 const useContract = () => {
     const [contract, setContract] = useState(null);

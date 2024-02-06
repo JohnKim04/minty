@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import useContract from './useContract'; // Ensure useContract is correctly implemented
+import useContract from './useContract'; 
 import { uploadToIPFS } from './ipfsClient';
 
 const MintNFTForm = () => {
